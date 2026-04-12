@@ -1,4 +1,4 @@
-/home/ivan/Documents/discord-bot-cpp/build/CMakeFiles/DiscordBot.dir
-/home/ivan/Documents/discord-bot-cpp/build/CMakeFiles/copy_env.dir
-/home/ivan/Documents/discord-bot-cpp/build/CMakeFiles/edit_cache.dir
-/home/ivan/Documents/discord-bot-cpp/build/CMakeFiles/rebuild_cache.dir
+/home/username/Documents/discord-bot-cpp/build/CMakeFiles/DiscordBot.dir
+/home/username/Documents/discord-bot-cpp/build/CMakeFiles/copy_env.dir
+/home/username/Documents/discord-bot-cpp/build/CMakeFiles/edit_cache.dir
+/home/username/Documents/discord-bot-cpp/build/CMakeFiles/rebuild_cache.dir
