@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/DiscordBot.dir/bot.cpp.o -o DiscordBot  -ldpp -lpthread 
