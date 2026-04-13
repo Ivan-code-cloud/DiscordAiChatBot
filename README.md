@@ -2,6 +2,8 @@
 
 A human-like Discord bot built with **D++ (DPP)** - the Discord C++ Library. The bot sends natural messages, reacts to user messages, and replies in a conversational manner.
 
+Before Installing, transfer the files: .env and .gitignore to discord-bot-cpp
+
 ## Features
 
 ✅ **Human-like messaging** - Sends messages with natural variations and casual language
