@@ -44,7 +44,7 @@ A human-like Discord bot built with **D++ (DPP)** - the Discord C++ Library. The
 ### 3. Clone/Setup Project
 
 ```bash
-cd /home/ivan/Documents/discord-bot-cpp
+cd /home/yourusername/Documents/discord-bot-cpp
 cp .env.example .env
 ```
 
